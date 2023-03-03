@@ -1,0 +1,25 @@
+*{
+    border: solid red;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    display:flex;
+    flex-direction: column;
+}
+
+.header *, .header, .about, .about *{
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.header {
+    display:flex;
+}
+
+.links {
+    margin-left:auto;
+}
