@@ -1,5 +1,6 @@
 *{
     border: solid red;
+    font-family: Roboto;
 }
 
 a {
@@ -9,11 +10,13 @@ a {
 body {
     display:flex;
     flex-direction: column;
+    font-family: Impact, ;
 }
 
 .header *, .header, .about, .about *{
     background-color: #1F2937;
     color: #F9FAF8;
+    
 }
 
 .header {
@@ -22,4 +25,8 @@ body {
 
 .links {
     margin-left:auto;
+}
+
+.logo {
+    font-size: 24px;
 }
