@@ -37,6 +37,14 @@ body {
     padding-left: 10%;
     padding-right: 10%;
     display: flex;
+    justify-content: center;
+}
+.intro-description {
+    flex-grow: 0;
+}
+.intro img {
+    width: 100px;
+    height: 100px;
 }
 
 .content {
