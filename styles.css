@@ -9,9 +9,8 @@ a {
 body {
     display:flex;
     flex-direction: column;
-    font-family: Impact, ;
     padding: 0;
-    margin:0
+    margin:0;
 }
 
 
