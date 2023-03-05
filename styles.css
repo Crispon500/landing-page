@@ -14,7 +14,7 @@ body {
     margin:0
 }
 
-.header *, .header, .about, .about *, .footer{
+.header *, .header, .intro, .intro *, .footer{
     background-color: #1F2937;
     color: #F9FAF8;
     margin:0;
