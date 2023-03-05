@@ -33,6 +33,11 @@ body {
     margin-left:auto;
 }
 
+.about {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
 .content {
     display: flex;
     flex-direction: column;
