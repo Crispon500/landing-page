@@ -36,6 +36,7 @@ body {
 .intro {
     padding-left: 10%;
     padding-right: 10%;
+    display: flex;
 }
 
 .content {
