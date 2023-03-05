@@ -73,6 +73,9 @@ body {
     height:200px;
     width:200px
 }
+.card p {
+    text-align: center;
+}
 
 .quote-container{
     
