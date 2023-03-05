@@ -14,14 +14,6 @@ body {
     margin:0
 }
 
-.card img {
-    overflow: hidden;
-    border: solid #3882F6;
-    border-radius: 10%;
-    height:100px;
-    width:100px
-}
-
 .header *, .header, .about, .about *, .footer{
     background-color: #1F2937;
     color: #F9FAF8;
@@ -34,28 +26,32 @@ body {
     padding-left: 10%;
     padding-right: 10%
 }
-
-.links {
-    margin-left:auto;
-}
-
 .logo {
     font-size: 24px;
 }
-
-.quote {
-    background-color: #E5E7EB;
-}
-
-.card-container {
-    display: flex;
-    gap: 10px;
-    justify-self: center;
-    align-items: center;
+.links {
+    margin-left:auto;
 }
 
 .content {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+.card-container {
+    display: flex;
+    gap: 10px;
+    justify-self: center;
+    align-items: center;
+}
+.card img {
+    overflow: hidden;
+    border: solid #3882F6;
+    border-radius: 10%;
+    height:100px;
+    width:100px
+}
+
+.quote {
+    background-color: #E5E7EB;
 }
