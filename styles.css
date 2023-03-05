@@ -32,3 +32,17 @@ body {
 .quote {
     background-color: #E5E7EB;
 }
+
+.content {
+    display: flex;
+    gap: 10px;
+    justify-self: center;
+    align-items: center;
+}
+
+.card {
+    border: solid #3882F6;
+    height:100px;
+    width:100px
+}
+
