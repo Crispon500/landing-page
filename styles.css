@@ -41,10 +41,11 @@ body {
 }
 .intro-description {
     flex-grow: 0;
+    width:35%;
 }
 .intro img {
-    width: 100px;
-    height: 100px;
+    width: 35%;
+    height: auto;
 }
 
 .content {
