@@ -69,3 +69,6 @@ body {
 .quote {
     background-color: #E5E7EB;
 }
+.author {
+    text-align: end;
+}
