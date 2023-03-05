@@ -10,11 +10,15 @@ body {
     display:flex;
     flex-direction: column;
     font-family: Impact, ;
+    padding: 0;
+    margin:0
 }
 
 .header *, .header, .about, .about *, .footer{
     background-color: #1F2937;
     color: #F9FAF8;
+    margin:0;
+    padding: 10px;
 }
 
 .header {
