@@ -23,8 +23,8 @@ body {
 
 .header {
     display:flex;
-    padding-left: 10%;
-    padding-right: 10%
+    padding-left: 15%;
+    padding-right: 15%
 }
 .logo {
     font-size: 24px;
@@ -34,8 +34,8 @@ body {
 }
 
 .intro {
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
     display: flex;
     justify-content: center;
 }
@@ -73,8 +73,8 @@ body {
 .quote {
     margin-bottom: 90px;
     margin-top: 90px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 25%;
+    margin-right: 25%;
     background-color: #E5E7EB;
     font-size: 36px;
     font-weight: lighter;
