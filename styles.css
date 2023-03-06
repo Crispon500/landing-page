@@ -100,10 +100,7 @@ body {
 }
 
 .sign-up-container{
-  padding-top: 5%;
-  padding-bottom: 5%;
-  padding-left: 15%;
-  padding-right: 15%;
+  padding: 5% 15%;
 }
 .sign-up {
     background-color: #3882F6;
@@ -117,6 +114,7 @@ body {
     border-radius: 10px;
     color: white;
     margin-left: auto;
+    margin-top:0;
 }
 
 .footer {
