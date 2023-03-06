@@ -108,7 +108,9 @@ button {
     background-color: #3882F6;
     border-radius: 10px;
     display: flex;
-    padding:12px;
+    align-items: center;
+    padding:12px 12%;
+    color: white;
 }
 .sign-up-container button {
     background-color: #3882F6;
