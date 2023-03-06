@@ -99,11 +99,24 @@ body {
     font-size: 18px;
 }
 
-button {
+.sign-up-container{
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.sign-up {
+    background-color: #3882F6;
+    border-radius: 10px;
+    display: flex;
+    padding:12px;
+}
+.sign-up-container button {
     background-color: #3882F6;
     border-color: white;
     border-radius: 10px;
     color: white;
+    margin-left: auto;
 }
 
 .footer {
