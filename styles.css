@@ -82,10 +82,7 @@ body {
     background-color: #E5E7EB;
 }
 .quote {
-    margin-bottom: 90px;
-    margin-top: 90px;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin: 90px 25%;
     background-color: #E5E7EB;
     font-size: 36px;
     font-weight: lighter;
