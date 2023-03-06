@@ -13,6 +13,11 @@ body {
     margin:0;
 }
 
+button {
+    height: 40px;
+    width: 130px;
+}
+
 
 .header *, .header, .intro, .intro *, .footer{
     background-color: #1F2937;
